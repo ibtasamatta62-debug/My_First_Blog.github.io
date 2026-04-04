@@ -1,9 +1,4 @@
 
-layout:post
-Titel:A Day in My University Life
-date:2026-04-04
-categories:tutorial
-
 layout:"post"
 Titel:"A Day in My University Life"
 date:"2026-04-04"
