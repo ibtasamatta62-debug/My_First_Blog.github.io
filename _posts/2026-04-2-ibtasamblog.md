@@ -1,7 +1,7 @@
-
+layout:post
 Titel: # A Day in My University Life
-date: 2026-04-04
-
+date:2026-04-04
+categories:tutorial
 ## 1. Morning Routine
 Today was quite a productive and balanced day. I started my morning by waking up early, offering my prayers, and getting ready for university.
 
